@@ -10,6 +10,8 @@ public class Application {
     public Application(InputDevice id, OutputDevice od) {
         this.id = id;
         this.od = od;
+        int a;
+        a=5;
     }
 
     public void run(){
